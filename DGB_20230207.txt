@@ -1,0 +1,28 @@
+DGB 교육 필기
+
+MegaZone Cloud 장용 강사님
+
+Chat GPT
+
+
+1주차는 기초교육
+2주차가 아주 중요
+3주차 메인 교육
+4주차는 다른 플랫폼의 클라우드 서비스를 공부한다
+
+
+TCP/IP
+
+데이터 전송과 관련된 내용
+
+네트워크 가상화 도구
+-GNS3
+-Eve-ng
+-cisco Packet Tracer
+    Skills for All
+
+
+
+자격증 목록
+ccnp
+cci
