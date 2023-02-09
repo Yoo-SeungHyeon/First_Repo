@@ -1,0 +1,4 @@
+오후수업
+Ethernet		10M
+FastEthernet	100M
+GigabitEthernet	1G이상
